@@ -1,4 +1,4 @@
-## Juan Zhu ### 朱娟
+## Juan Zhu 
 
 You can use the [editor on GitHub](https://github.com/zhujuan-kassia/zhujaun-kassia.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
