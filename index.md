@@ -8,7 +8,7 @@
       <p><b>Address: No.163.Xianlin Avenue, Nanjing, 210021, China.</b></p>
     </td>
     <td width="25%">
-      <img src="/3B24FB1C-820B-4C2C-AC62-28B71D0BC439.png" width="100%">      % 插入证件照代码
+      <img src="/3B24FB1C-820B-4C2C-AC62-28B71D0BC439.png" width="100%">      
     </td>
   </tr>
 </table>
