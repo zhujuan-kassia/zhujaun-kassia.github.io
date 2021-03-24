@@ -13,6 +13,6 @@
   </tr>
 </table>
 
-<a href="/index.html">英文版</a>
+<a href="/index.md">英文版</a>
 
 
