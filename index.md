@@ -18,10 +18,10 @@
  
  
  ### Award
- Sun Hong Kai Scholarship
- National Inspirational Schokarship
- Nanjing University Excellent Student Award
- Outstanding Volunteer Awaerd
+ - Sun Hong Kai Scholarship
+ - National Inspirational Schokarship
+ - Nanjing University Excellent Student Award
+ - Outstanding Volunteer Awaerd
 
 You can use the [editor on GitHub](https://github.com/zhujuan-kassia/zhujaun-kassia.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
