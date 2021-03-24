@@ -3,7 +3,7 @@
     <td width="75%">
       <h1>朱娟</h1>
       <p><b>本科生</b></p>
-      <p><b>南京大学电子学院</b></p>
+      <p><b>南京大学电子科学与工程学院</b></p>
       <p><b>邮箱：juanzhu@smail.nju.edu.cn</b></p>
       <p><b>地址：江苏省南京市仙林大道163号</b></p>
     </td>
@@ -12,4 +12,7 @@
     </td>
   </tr>
 </table>
+
+<a href="/index.html">英文版</a>
+
 
