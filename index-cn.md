@@ -8,7 +8,7 @@
       <p><b>地址：江苏省南京市仙林大道163号</b></p>
     </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">      % 插入证件照代码
+      <img src="/3B24FB1C-820B-4C2C-AC62-28B71D0BC439.png" width="100%">      % 插入证件照代码
     </td>
   </tr>
 </table>
