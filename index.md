@@ -1,4 +1,4 @@
-'''html
+html
 <table border="0">
   <tr>
     <td width="75%">
@@ -14,9 +14,9 @@
   </tr>
 </table>
 
-'''html
 
-[Chinese Personal Homepage](https://github.con/zhujuan2/zhujuan2.github.io/edit/gh-pages/index-cn.md)
+<a href="/index-cn.html">Chinese Personal Homepage</a>
+html
 
 You can use the [editor on GitHub](https://github.com/zhujuan-kassia/zhujaun-kassia.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -24,7 +24,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown
+is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
