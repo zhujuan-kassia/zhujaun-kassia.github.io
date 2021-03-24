@@ -8,11 +8,12 @@
       <p><b>Address: No.163.Xianlin Avenue, Nanjing, 210021, China.</b></p>
     </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">      % 插入证件照代码
+      <img src="/3B24FB1C-820B-4C2C-AC62-28B71D0BC439.png" width="100%">      % 插入证件照代码
     </td>
   </tr>
 </table>
 
+[Chinese Personal Homepage](https://github.con/zhujuan2/zhujuan2.github.io/edit/gh-pages/index-cn.md)
 
 You can use the [editor on GitHub](https://github.com/zhujuan-kassia/zhujaun-kassia.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
