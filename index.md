@@ -16,7 +16,7 @@
 
 <a href="/index-cn.html">Chinese Personal Homepage</a>
  
- ### <u>Educational Background</u>
+ <u> ### Educational Background</u>
  
  
  
