@@ -16,6 +16,8 @@
 
 <a href="/index-cn.html">Chinese Personal Homepage</a>
  
+ 
+ --------------------
  ### Educational Background
  **School of Electronic Science and Engineering, Nanjing University(NJU)**
  
@@ -27,7 +29,7 @@
 
 
 
-
+-------------------------
 ### Research Experience
 **Security Check based on Terahertz Image**  
 
@@ -59,7 +61,7 @@
 - Constructed the sonic standing wave demonstration system on the Basys3 board.
 - Utilize ping-pong cache mechanism to design the data processing module.
 
-
+-----------------
 ### Course Projects
 **Digital Image Watermark Algorithm against Geometric Attacks; Cryptography**
 
@@ -101,7 +103,7 @@
  
  
  
- 
+ -----------
  ### Honors and Awards
 - People’s Scholarship
 - Sun Hung Kai Scholarship
@@ -110,6 +112,9 @@
 - Outstanding Volunteer Award
 - Outstanding Communist Youth League Member
 
+
+
+--------------
 ### Skills and Others
 **Programming/Software：** C, C++, Python, Matlab
 
