@@ -16,9 +16,13 @@
 
 <a href="/index-cn.html">Chinese Personal Homepage</a>
  
+ ### <u>Educational Background</u>
+ 
+ 
+ 
+ 
  
  ### Award
- ---------------
  - Sun Hong Kai Scholarship
  - National Inspirational Schokarship
  - Nanjing University Excellent Student Award
