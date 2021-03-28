@@ -16,51 +16,65 @@
 
 <a href="/index-cn.html">Chinese Personal Homepage</a>
  
- <u> ### Educational Background</u>
+ ### Educational Background
+ ** School of Electronic Science and Engineering, Nanjing University(NJU) **
+09/2018 - 06/2022
+- Major: Telecommunications Engineering
+- Academic: Top student of my major; 3/205 in the second year.
  
+
+
+### Research Experience
+**Security Check based on Terahertz Image**
+*01/2021-now; Institute of Communication Technology, Nanjing University*
+*Dircetor: Yechao Bai (Associate Professor)*
+- Constructed a stacked autoencoder to distinguish dangerous goods from terahertz images.
+**Spectrum Sensing Project**
+*03/2020 - 09/2020; Institute of Communication Technology, Nanjing University*
+*Director: Yechao Bai (Associate Professor)*
+- Designed an interactive interface with Matlab GUI to display and visualize real-time transmitted data.
+- Built a spectrum database with MySQL. 
+- The work adopted distributed collaborative perception to detect the idle frequency bands in a given frequency range.
+**Acoustic Standing Wave Demonstration System**
+*10/2019 - 12/2020*
+*Advisor: Jiang Zheng (Senior Engineer)*
+- Implemented a high-precision A/D conversion circuit using ADC0809 chip with Verilog HDL  and Vivado software.
+- Constructed the sonic standing wave demonstration system on the Basys3 board.
+- Utilize ping-pong cache mechanism to design the data processing module.
+
+
+### Course Projects
+**Digital Image Watermark Algorithm against Geometric Attacks; Cryptography**
+*01/2021*
+- Generate digital image watermarks with the zero-watermark method to protect image copyrights.
+- The scrambled meaningful watermark and the feature vector extracted from the original picture are XORed and registered as copyright information.
+- Added NMF matrix decomposition to make the watermark resistant to geometric attacks and increase robustness.
+**Implement a Beauty Software; Digital image processing**
+*11/2020*
+- Adopted a variety of image processing methods and machine learning methods to achieve functions such as microdermabrasion, wrinkle removal, and background replacement. 
+**Smart Clothes Drying Rod Device; Sensor principle**
+*08/2020*
+- Implemented the wind speed detection module with Hall sensor.
+- Input the detection results of various sensor modules into the single-chip microcomputer, and use the motor drive device.
+ **Monte Carlo Integration Method and Paradox Problems about Probability**
+ *06/2020*
+ - The Monte Carlo method relies on repeated random experiments to obtain results. I use it to calculate the definite integral and compare it with the result of direct calculation and improve it.
+ - I collected, analyzed and classified 9 typical paradox problems in probability theory, and explored the reasons of the paradoxes and tried to put forward methods to avoid them.
+ **Implementation of a Network Application**
+ *04/2020*
+ - Implementation an chat room based on the socket communication mechanism, and transform it into a stand-alone chat room with shared memory and semaphore mechanism.
  
- 
- 
- 
- ### Award
- - Sun Hong Kai Scholarship
- - National Inspirational Schokarship
- - Nanjing University Excellent Student Award
- - Outstanding Volunteer Awaerd
+ ### Honors and Awards
+- People’s Scholarship
+- Sun Hung Kai Scholarship
+- National Inspirational Scholarship
+- Nanjing University Excellent Student Award
+- Outstanding Volunteer Award
+- Outstanding Communist Youth League Member
 
-You can use the [editor on GitHub](https://github.com/zhujuan-kassia/zhujaun-kassia.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown
-is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhujuan-kassia/zhujaun-kassia.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Skills and Others
+**Programming/Software：** C, C++, Python, Matlab
+**Document:** LaTeX, Markdown, MS office
+**Operating Systems：**Ubuntu 16, Window 10
+**Leadership Experience:** Monitor，Youth League Secretary 
+**Others:** Member of Nanjing University Youth Volunteers Association, Member of the Ministerial 
