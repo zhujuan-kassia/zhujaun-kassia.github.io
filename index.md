@@ -35,12 +35,12 @@
 - Designed an interactive interface with Matlab GUI to display and visualize real-time transmitted data.
 - Built a spectrum database with MySQL. 
 - The work adopted distributed collaborative perception to detect the idle frequency bands in a given frequency range.
-**Acoustic Standing Wave Demonstration System**
-*10/2019 - 12/2020*
+**Acoustic Standing Wave Demonstration System**   
+*10/2019 - 12/2020*   
 *Advisor: Jiang Zheng (Senior Engineer)*
 - Implemented a high-precision A/D conversion circuit using ADC0809 chip with Verilog HDL  and Vivado software.
 - Constructed the sonic standing wave demonstration system on the Basys3 board.
-- Utilize ping-pong cache mechanism to design the data processing module.
+- Utilize ping-pong cache mechanism to design the data processing module.
 
 
 ### Course Projects
